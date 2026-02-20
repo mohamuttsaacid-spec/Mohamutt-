@@ -1,0 +1,5 @@
+{
+  "name": "FootyDuel",
+  "description": "A real-time football trivia game where you compete with friends using live data from the web.",
+  "requestFramePermissions": []
+}
